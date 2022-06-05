@@ -1,0 +1,43 @@
+#main {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+}
+
+.solucion-contenedor {
+  width: 30%;
+  position: relative;
+}
+.solucion-imgContainer {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.solucion-img {
+  width: 70%;
+}
+.titulo {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  width: 40%;
+}
+.titulo-texto {
+  font-size: 6rem;
+}
+.buscar-contenedor {
+  width: 30%;
+  position: relative;
+}
+.buscar-imgContainer {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.buscar-img {
+  width: 50%;
+}
